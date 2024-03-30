@@ -1,0 +1,4 @@
+#here we are going to do the first basic thing
+print("Hello World!")
+Hello World!
+#In python we use print( ) to run the code that we want to be printed.
